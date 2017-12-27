@@ -1,0 +1,4 @@
+[console_scripts]
+search_engine_shell = searchEngine.engine.se_shell:init_commands
+server_start = searchEngine.server.search_server:runServer
+

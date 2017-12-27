@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: searchEngine
+Version: 1.0.0
+Summary: searchEngine
+Home-page: no public url available
+Author: Mohit Khanna
+Author-email: mohit.khanna2008@gmail.com
+License: proprietary
+Description-Content-Type: UNKNOWN
+Description: searchEngine
+Keywords: searchEngine
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: any user
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: proprietary :: Open sourceProgramming Language :: Python :: 3.5

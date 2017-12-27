@@ -1,0 +1,380 @@
+20171022095625.278;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095625.858;7fff79ef1000;search_server.py;runServer;I;0;Starting the search server engine
+20171022095625.877;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095645.495;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 09:56:45] "GET / HTTP/1.1" 200 -
+20171022095646.497;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 09:56:46] "GET /favicon.ico HTTP/1.1" 404 -
+20171022095657.687;7fff79ef1000;search_server.py;runServer;I;0;Stopping the search server engine
+20171022095717.579;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095832.254;7fff79ef1000;index.py;get_all_txt_files;I;0;Logging the files in the target directory
+20171022095832.255;7fff79ef1000;index.py;get_all_txt_files;I;0;Logging the files in the target directory
+20171022095832.255;7fff79ef1000;index.py;get_all_txt_files;I;0;Logging the files in the target directory
+20171022084052.126;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022084052.573;7fff79ef1000;search_server.py;runServer;I;0;Starting the search server engine
+20171022084052.593;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022084113.618;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:41:13] "GET / HTTP/1.1" 200 -
+20171022084126.365;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:41:26] "GET /index.html HTTP/1.1" 404 -
+20171022084217.836;7fff79ef1000;search_server.py;runServer;I;0;Stopping the search server engine
+20171022084855.122;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022084855.134;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022084912.107;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:49:12] "GET / HTTP/1.1" 200 -
+20171022085007.198;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022085007.205;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022085021.246;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:50:21] "GET /index.html HTTP/1.1" 301 -
+20171022085021.257;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:50:21] "GET /index.html/ HTTP/1.1" 500 -
+20171022085330.562;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022085330.570;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022085345.555;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:53:45] "GET /index.html/ HTTP/1.1" 500 -
+20171022085556.144;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022085556.154;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022085606.341;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:56:06] "GET /index.html/ HTTP/1.1" 500 -
+20171022085717.101;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022085717.108;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022085721.434;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 20:57:21] "GET /index.html/ HTTP/1.1" 500 -
+20171022090149.947;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022090149.956;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022090154.544;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:01:54] "GET /index.html/ HTTP/1.1" 500 -
+20171022090337.989;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:03:37] "GET /index HTTP/1.1" 301 -
+20171022090338.000;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:03:37] "GET /index/ HTTP/1.1" 200 -
+20171022090355.501;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:03:55] "GET /index/ HTTP/1.1" 200 -
+20171022090405.269;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022090405.278;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022090409.367;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:04:09] "GET /index/ HTTP/1.1" 200 -
+20171022090553.631;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022090553.639;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022090604.390;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:06:04] "GET /index/ HTTP/1.1" 200 -
+20171022090754.438;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:07:54] "GET /index/ HTTP/1.1" 200 -
+20171022090915.507;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:09:15] "GET /index/ HTTP/1.1" 200 -
+20171022090922.367;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022090922.375;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022090931.271;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:09:31] "GET /index/ HTTP/1.1" 200 -
+20171022092441.749;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022092441.758;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022092451.498;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:24:51] "GET / HTTP/1.1" 200 -
+20171022092457.536;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:24:57] "GET /index/ HTTP/1.1" 200 -
+20171022092457.589;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:24:57] "GET /index/stylesheets/search.css HTTP/1.1" 404 -
+20171022092502.104;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:25:02] "GET /index/stylesheets/search.css HTTP/1.1" 404 -
+20171022092620.504;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022092620.513;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022092623.001;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:26:23] "GET /index/ HTTP/1.1" 200 -
+20171022092623.046;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:26:23] "GET /stylesheets/search.css HTTP/1.1" 404 -
+20171022092625.692;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:26:25] "GET /index/ HTTP/1.1" 200 -
+20171022092625.720;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:26:25] "GET /stylesheets/search.css HTTP/1.1" 404 -
+20171022092701.397;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022092701.405;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022092704.988;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:27:04] "GET /index/ HTTP/1.1" 200 -
+20171022092705.051;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:27:05] "GET /stylesheets/search.css HTTP/1.1" 404 -
+20171022092712.329;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:27:12] "GET /stylesheets/search.css HTTP/1.1" 404 -
+20171022094446.723;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022094446.732;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022094507.214;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:45:07] "GET /index/ HTTP/1.1" 200 -
+20171022094507.398;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:45:07] "GET /static/stylesheets/search.css HTTP/1.1" 200 -
+20171022094519.635;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:45:19] "GET /index/ HTTP/1.1" 200 -
+20171022094620.459;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:46:20] "GET /index/ HTTP/1.1" 200 -
+20171022094629.710;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022094629.720;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022094639.964;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:46:39] "GET /index/ HTTP/1.1" 200 -
+20171022094654.748;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:46:54] "GET /index/ HTTP/1.1" 200 -
+20171022094701.972;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022094701.982;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022094705.458;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:47:05] "GET /index/ HTTP/1.1" 200 -
+20171022094825.072;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:48:25] "GET /index/ HTTP/1.1" 200 -
+20171022094831.597;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022094831.607;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022094835.570;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:48:35] "GET /index/ HTTP/1.1" 200 -
+20171022095053.518;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095053.526;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095058.311;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:50:58] "GET /index/ HTTP/1.1" 200 -
+20171022095156.767;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:51:56] "GET /index/ HTTP/1.1" 200 -
+20171022095205.378;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095205.388;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095210.671;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:52:10] "GET /index/ HTTP/1.1" 200 -
+20171022095232.383;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:52:32] "GET /index/ HTTP/1.1" 200 -
+20171022095239.650;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095239.660;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095243.307;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:52:43] "GET /index/ HTTP/1.1" 200 -
+20171022095319.392;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095319.401;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095326.259;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:53:26] "GET /index/ HTTP/1.1" 200 -
+20171022095350.833;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095350.841;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095352.477;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:53:52] "GET /index/ HTTP/1.1" 200 -
+20171022095547.858;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095547.867;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095548.979;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:55:48] "GET /index/ HTTP/1.1" 200 -
+20171022095735.346;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022095735.355;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022095737.378;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:57:37] "GET /index/ HTTP/1.1" 200 -
+20171022095804.819;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 21:58:04] "GET /index/ HTTP/1.1" 200 -
+20171022100147.819;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:01:47] "GET /index/ HTTP/1.1" 200 -
+20171022100210.836;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:02:10] "GET /index/ HTTP/1.1" 200 -
+20171022100221.281;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022100221.290;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022100223.297;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:02:23] "GET /index/ HTTP/1.1" 200 -
+20171022100345.097;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022100345.108;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022100347.018;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:03:47] "GET /index/ HTTP/1.1" 200 -
+20171022100432.052;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:04:32] "GET /index/ HTTP/1.1" 200 -
+20171022100438.423;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022100438.432;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022100441.504;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:04:41] "GET /index/ HTTP/1.1" 200 -
+20171022100527.468;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022100527.478;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022100529.963;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:05:29] "GET /index/ HTTP/1.1" 200 -
+20171022100529.965;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:05:29] "GET /index/ HTTP/1.1" 200 -
+20171022100532.144;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:05:32] "GET /index/ HTTP/1.1" 200 -
+20171022100935.768;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:09:35] "GET /index/ HTTP/1.1" 200 -
+20171022100943.201;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022100943.209;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022100951.850;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:09:51] "GET /index/ HTTP/1.1" 200 -
+20171022101002.490;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:10:02] "GET /index/ HTTP/1.1" 200 -
+20171022101033.964;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022101033.973;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022101035.431;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:10:35] "GET /index/ HTTP/1.1" 200 -
+20171022101114.080;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022101114.090;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022101115.695;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:11:15] "GET /index/ HTTP/1.1" 200 -
+20171022101154.945;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022101154.954;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022101156.734;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:11:56] "GET /index/ HTTP/1.1" 200 -
+20171022101218.481;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022101218.487;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022101220.240;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:12:20] "GET /index/ HTTP/1.1" 200 -
+20171022101327.081;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:13:27] "GET /index/ HTTP/1.1" 200 -
+20171022101357.199;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:13:57] "GET /index/ HTTP/1.1" 200 -
+20171022101422.479;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022101422.489;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022101423.625;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:14:23] "GET /index/ HTTP/1.1" 200 -
+20171022102531.646;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022102531.655;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022102535.883;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:25:35] "GET /index/ HTTP/1.1" 500 -
+20171022103054.096;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103054.107;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103111.665;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:31:11] "GET /index/ HTTP/1.1" 500 -
+20171022103137.346;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103137.348;7fff79ef1000;logsetup.py;handle_uncaught_exception;F;1558;Exit with uncaught exception
+Traceback (most recent call last):
+  File "/anaconda/bin/flask", line 6, in <module>
+    sys.exit(flask.cli.main())
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 507, in main
+    cli.main(args=args, prog_name=name)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 374, in main
+    return AppGroup.main(self, *args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 697, in main
+    rv = self.invoke(ctx)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 1066, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 895, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/decorators.py", line 64, in new_func
+    return ctx.invoke(f, obj, *args[1:], **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 417, in run_command
+    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 146, in __init__
+    self._load_unlocked()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 170, in _load_unlocked
+    self._app = rv = self.loader()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 231, in load_app
+    rv = locate_app(self.app_import_path)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 90, in locate_app
+    __import__(module)
+  File "/Users/bradjballard/personal_search_engine/python/server/search_server.py", line 21
+    def search-input():
+              ^
+SyntaxError: invalid syntax
+20171022103156.219;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103156.228;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103159.536;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:31:59] "GET /index/ HTTP/1.1" 200 -
+20171022103206.002;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:32:06] "POST /search HTTP/1.1" 500 -
+20171022103305.948;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103305.955;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103311.980;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:33:11] "POST /search HTTP/1.1" 500 -
+20171022103524.612;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103524.621;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103530.238;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:35:30] "POST /search HTTP/1.1" 500 -
+20171022103605.516;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103605.525;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103607.159;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:36:07] "POST /search HTTP/1.1" 500 -
+20171022103644.952;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103644.959;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103648.161;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:36:48] "POST /search HTTP/1.1" 500 -
+20171022103703.786;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103703.793;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103707.247;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:37:07] "POST /search HTTP/1.1" 500 -
+20171022103737.373;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103737.380;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103739.384;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:37:39] "POST /search HTTP/1.1" 500 -
+20171022103804.289;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103804.297;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103807.073;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:38:07] "POST /search HTTP/1.1" 500 -
+20171022103927.464;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022103927.473;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022103930.461;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:39:30] "POST /search HTTP/1.1" 302 -
+20171022103930.484;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:39:30] "GET /static/index.html HTTP/1.1" 404 -
+20171022104137.295;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104137.305;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104143.374;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:41:43] "GET /static/index.html HTTP/1.1" 404 -
+20171022104150.024;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:41:50] "GET /static/index.html HTTP/1.1" 404 -
+20171022104152.449;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:41:52] "GET /static/index.html HTTP/1.1" 404 -
+20171022104200.340;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:42:00] "GET /static/index.html HTTP/1.1" 404 -
+20171022104237.997;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:42:37] "GET /static/index.html HTTP/1.1" 404 -
+20171022104243.240;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104243.250;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104245.639;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:42:45] "GET /static/index.html HTTP/1.1" 404 -
+20171022104323.317;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104323.325;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104324.414;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:43:24] "GET /static/index.html HTTP/1.1" 404 -
+20171022104412.234;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104412.243;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104415.233;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:44:15] "GET /static/index.html HTTP/1.1" 404 -
+20171022104441.236;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:44:41] "GET /index.html/ HTTP/1.1" 500 -
+20171022104449.697;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:44:49] "GET /index/ HTTP/1.1" 200 -
+20171022104501.071;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104501.092;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104502.985;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:45:02] "GET /index/ HTTP/1.1" 200 -
+20171022104515.643;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:45:15] "POST /search HTTP/1.1" 500 -
+20171022104552.764;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104552.773;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104555.518;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:45:55] "POST /search HTTP/1.1" 200 -
+20171022104604.276;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:46:04] "POST /search HTTP/1.1" 200 -
+20171022104610.529;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:46:10] "POST /search HTTP/1.1" 200 -
+20171022104756.907;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104756.908;7fff79ef1000;logsetup.py;handle_uncaught_exception;F;1558;Exit with uncaught exception
+Traceback (most recent call last):
+  File "/anaconda/bin/flask", line 6, in <module>
+    sys.exit(flask.cli.main())
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 507, in main
+    cli.main(args=args, prog_name=name)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 374, in main
+    return AppGroup.main(self, *args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 697, in main
+    rv = self.invoke(ctx)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 1066, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 895, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/decorators.py", line 64, in new_func
+    return ctx.invoke(f, obj, *args[1:], **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 417, in run_command
+    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 146, in __init__
+    self._load_unlocked()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 170, in _load_unlocked
+    self._app = rv = self.loader()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 231, in load_app
+    rv = locate_app(self.app_import_path)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 90, in locate_app
+    __import__(module)
+  File "/Users/bradjballard/personal_search_engine/python/server/search_server.py", line 26
+    return render_template('index.html')
+    ^
+IndentationError: unexpected indent
+20171022104827.345;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022104827.353;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022104830.019;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:48:30] "POST /search HTTP/1.1" 200 -
+20171022104835.967;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:48:35] "POST /search HTTP/1.1" 200 -
+20171022104847.622;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:48:47] "POST /search HTTP/1.1" 200 -
+20171022104854.113;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:48:54] "POST /search HTTP/1.1" 200 -
+20171022104856.134;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:48:56] "POST /search HTTP/1.1" 200 -
+20171022104905.563;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:49:05] "POST /search HTTP/1.1" 200 -
+20171022104911.901;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:49:11] "POST /search HTTP/1.1" 200 -
+20171022104918.481;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:49:18] "POST /search HTTP/1.1" 200 -
+20171022104925.827;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:49:25] "POST /search HTTP/1.1" 200 -
+20171022104930.854;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:49:30] "POST /search HTTP/1.1" 200 -
+20171022105033.508;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:50:33] "POST /search HTTP/1.1" 200 -
+20171022105039.497;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:50:39] "POST /search HTTP/1.1" 200 -
+20171022105042.843;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 22:50:42] "POST /search HTTP/1.1" 200 -
+20171022115252.784;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022115252.795;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022115321.075;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 23:53:21] "POST /search HTTP/1.1" 200 -
+20171022115423.920;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 23:54:23] "POST /search HTTP/1.1" 200 -
+20171022115552.770;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171022115552.779;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171022115607.041;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 23:56:07] "POST /search HTTP/1.1" 200 -
+20171022115618.309;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [22/Oct/2017 23:56:18] "POST /search HTTP/1.1" 200 -
+20171023121424.005;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023121424.017;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023121429.038;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:14:29] "POST /search HTTP/1.1" 200 -
+20171023121439.240;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:14:39] "POST /search HTTP/1.1" 200 -
+20171023121445.383;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:14:45] "POST /search HTTP/1.1" 200 -
+20171023121540.755;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:15:40] "POST /search HTTP/1.1" 200 -
+20171023121547.537;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:15:47] "POST /search HTTP/1.1" 200 -
+20171023121551.288;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:15:51] "POST /search HTTP/1.1" 200 -
+20171023122019.722;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122019.725;7fff79ef1000;logsetup.py;handle_uncaught_exception;F;1558;Exit with uncaught exception
+Traceback (most recent call last):
+  File "/anaconda/bin/flask", line 6, in <module>
+    sys.exit(flask.cli.main())
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 507, in main
+    cli.main(args=args, prog_name=name)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 374, in main
+    return AppGroup.main(self, *args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 697, in main
+    rv = self.invoke(ctx)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 1066, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 895, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/decorators.py", line 64, in new_func
+    return ctx.invoke(f, obj, *args[1:], **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/click/core.py", line 535, in invoke
+    return callback(*args, **kwargs)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 417, in run_command
+    app = DispatchingApp(info.load_app, use_eager_loading=eager_loading)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 146, in __init__
+    self._load_unlocked()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 170, in _load_unlocked
+    self._app = rv = self.loader()
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 231, in load_app
+    rv = locate_app(self.app_import_path)
+  File "/anaconda/lib/python3.6/site-packages/flask/cli.py", line 90, in locate_app
+    __import__(module)
+  File "/Users/bradjballard/personal_search_engine/python/server/search_server.py", line 26
+    else
+       ^
+SyntaxError: invalid syntax
+20171023122034.662;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122034.673;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122037.603;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:20:37] "POST /search HTTP/1.1" 500 -
+20171023122105.098;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122105.107;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122108.188;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:21:08] "POST /search HTTP/1.1" 500 -
+20171023122151.428;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122151.437;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122158.286;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:21:58] "POST /search HTTP/1.1" 500 -
+20171023122226.639;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122226.648;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122236.329;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:22:36] "GET /index/ HTTP/1.1" 200 -
+20171023122246.142;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:22:46] "POST /search HTTP/1.1" 200 -
+20171023122432.495;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122432.505;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122436.373;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:24:36] "POST /search HTTP/1.1" 301 -
+20171023122436.387;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:24:36] "GET /search/ HTTP/1.1" 500 -
+20171023122441.204;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:24:41] "GET /index/ HTTP/1.1" 200 -
+20171023122449.900;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:24:49] "POST /index HTTP/1.1" 200 -
+20171023122518.777;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023122518.785;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023122520.643;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:25:20] "POST /index HTTP/1.1" 200 -
+20171023122544.448;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:25:44] "POST /index HTTP/1.1" 200 -
+20171023122552.227;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:25:52] "POST /index HTTP/1.1" 200 -
+20171023123350.084;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023123350.095;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023123409.338;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:34:09] "POST /index HTTP/1.1" 200 -
+20171023123420.535;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:34:20] "POST /index HTTP/1.1" 200 -
+20171023123427.040;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:34:27] "POST /index HTTP/1.1" 200 -
+20171023123438.075;7fff79ef1000;logsetup.py;init_log_handler;I;1559;started pse logger
+20171023123438.084;7fff79ef1000;_internal.py;_log;I; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+20171023123517.818;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:35:17] "GET /index HTTP/1.1" 301 -
+20171023123517.841;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:35:17] "GET /index/ HTTP/1.1" 200 -
+20171023123517.905;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:35:17] "GET /static/stylesheets/search.css HTTP/1.1" 200 -
+20171023123530.944;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:35:30] "POST /index HTTP/1.1" 200 -
+20171023123555.823;7fff79ef1000;_internal.py;_log;I;127.0.0.1 - - [23/Oct/2017 00:35:55] "POST /index HTTP/1.1" 200 -
